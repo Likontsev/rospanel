@@ -1,5 +1,15 @@
 # Changelog
 
+## [5.16.0](https://github.com/AppsGanin/rospanel/compare/v5.15.0...v5.16.0) (2026-11-11)
+
+
+### Features
+
+* **api:** user id in the subscription view ([e64b6c6](https://github.com/AppsGanin/rospanel/commit/e64b6c6edfd2564f25b46f52d96ddb2d8affb34b))
+* **broadcast:** narrow a broadcast to one access group ([ed844d9](https://github.com/AppsGanin/rospanel/commit/ed844d996b6a95e83be1d22d0896e19cf93315fc))
+* **devices:** split the device limit into IP and HWID ([94ae04b](https://github.com/AppsGanin/rospanel/commit/94ae04b18bb4a2281f5dba93200ab370186c8015))
+* **sub:** the user's id as the first badge on the subscription page ([74f32a7](https://github.com/AppsGanin/rospanel/commit/74f32a71a7f6d9e39f059a11e47f586c9900bc90))
+
 ## [5.15.0](https://github.com/AppsGanin/rospanel/compare/v5.14.0...v5.15.0) (2026-11-09)
 
 
